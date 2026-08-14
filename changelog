@@ -1,4 +1,40 @@
-* commit 87017f422af3485c6ce3a574db07695a2385e544 (HEAD -> main, origin/main, origin/HEAD)
+* commit eeb0daf6f374189a10f7e1c2467449851a7f10ad (HEAD -> main, origin/main, origin/HEAD)
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Aug 13 22:23:12 2026 -0400
+| 
+|     * script npm
+| 
+* commit 945139b730ffce32abf69c00b32489a73a5bd3a7
+| Author: Sinfallas <sinfallas@gmail.com>
+| Date:   Tue Aug 11 10:11:29 2026 -0400
+| 
+|     Update .gitignore
+| 
+* commit ca97fe7d96440d6321c80cf4541eb6be5ce65b79
+| Author: Sinfallas <sinfallas@gmail.com>
+| Date:   Tue Aug 11 10:06:10 2026 -0400
+| 
+|     Add Terraform files to .gitignore
+| 
+* commit 90ea0384b19a18f4b3022353bee0e4256ca0b909
+| Author: Sinfallas <sinfallas@gmail.com>
+| Date:   Wed Aug 5 10:21:03 2026 -0400
+| 
+|     Update README.md
+| 
+* commit 151bc26c54e5136d563f35195464fa29b8921476
+| Author: Sinfallas <sinfallas@gmail.com>
+| Date:   Wed Aug 5 10:15:31 2026 -0400
+| 
+|     Update npm API URL port in env.example
+| 
+* commit 4452570e484a4641488b63b3fca25415c944fdd9
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Tue Aug 4 20:56:18 2026 -0400
+| 
+|     * changelog
+| 
+* commit 87017f422af3485c6ce3a574db07695a2385e544
 | Author: Jesus Palencia <sinfallas@gmail.com>
 | Date:   Tue Aug 4 20:56:10 2026 -0400
 | 
